@@ -1,0 +1,406 @@
+{
+  "2017": {
+    "election_type": "Assembly",
+    "focus": "Narender Nagar",
+    "focus_party": "SP",
+    "alliance": "SP–INC alliance; Narender Nagar contested Jewar on the SP symbol.",
+    "source": "63- jewar 2017 form 20.xls",
+    "source_note": "2017 EVM-only totals, exclude postal ballots.",
+    "year": 2017,
+    "candidates": [
+      {
+        "name": "Narender Nagar",
+        "party": "SP",
+        "source_label": "Narender Nagar (SP)",
+        "col": "V0",
+        "is_focus": true
+      },
+      {
+        "name": "Dhirendra Singh",
+        "party": "BJP",
+        "source_label": "Dhirendra Singh (BJP)",
+        "col": "V1",
+        "is_focus": false
+      },
+      {
+        "name": "Vedram Bhati",
+        "party": "BSP",
+        "source_label": "Vedram Bhati (BSP)",
+        "col": "V2",
+        "is_focus": false
+      },
+      {
+        "name": "Kamal Sharma",
+        "party": "RLD",
+        "source_label": "Kamal Sharma (RLD)",
+        "col": "V3",
+        "is_focus": false
+      },
+      {
+        "name": "Vinod",
+        "party": "RPSN",
+        "source_label": "Vinod (RS)",
+        "col": "V4",
+        "is_focus": false
+      },
+      {
+        "name": "Vinod Kumar Sharma",
+        "party": "RKMP",
+        "source_label": "Vinod Kumar Sharma (RKMP)",
+        "col": "V5",
+        "is_focus": false
+      },
+      {
+        "name": "Yogesh Kumar",
+        "party": "IND",
+        "source_label": "Yogesh Kumar (IN)",
+        "col": "V6",
+        "is_focus": false
+      },
+      {
+        "name": "Sumita Vaid Dixit",
+        "party": "IND",
+        "source_label": "Sumita Vaid Dixit (IN)",
+        "col": "V7",
+        "is_focus": false
+      }
+    ],
+    "stations": 343,
+    "evm_total": 211292,
+    "focus_votes": 13216,
+    "focus_station_leads": 7,
+    "invalid_station_rows": 0,
+    "zero_evm_rows": 0
+  },
+  "2019": {
+    "election_type": "Lok Sabha segment",
+    "focus": "Satveer",
+    "focus_party": "BSP",
+    "alliance": "BSP–SP–RLD alliance; Satveer contested on BSP symbol. NOT Narender Nagar votes.",
+    "source": "63- 2019 form 20 data.xls",
+    "source_note": "2019 station-1 printed candidate subtotal is 90 higher than summed candidate columns.",
+    "year": 2019,
+    "candidates": [
+      {
+        "name": "Satveer",
+        "party": "BSP",
+        "source_label": "SATVEER (BSP)",
+        "col": "V0",
+        "is_focus": true
+      },
+      {
+        "name": "Dr. Mahesh Sharma",
+        "party": "BJP",
+        "source_label": "DR. MAHESH SHARMA (BJP)",
+        "col": "V1",
+        "is_focus": false
+      },
+      {
+        "name": "Dr. Arvind Kumar Singh",
+        "party": "INC",
+        "source_label": "DR. ARVIND KUMAR SINGH (INC)",
+        "col": "V2",
+        "is_focus": false
+      },
+      {
+        "name": "Ashok Kumar Adhana",
+        "party": "IND",
+        "source_label": "ASHOK KUMAR ADHANA (Independent)",
+        "col": "V3",
+        "is_focus": false
+      },
+      {
+        "name": "Rodash Gupta",
+        "party": "IND",
+        "source_label": "RODASH GUPTA (Independent)",
+        "col": "V4",
+        "is_focus": false
+      },
+      {
+        "name": "Jagdeep Singh",
+        "party": "Loktantrik Janshakti Party",
+        "source_label": "JAGDEEP SINGH (Loktantrik Janshakti Party)",
+        "col": "V5",
+        "is_focus": false
+      },
+      {
+        "name": "Ram Pal",
+        "party": "Rashtriya Samaj Paksha",
+        "source_label": "RAM PAL (Rashtriya Samaj Paksha)",
+        "col": "V6",
+        "is_focus": false
+      },
+      {
+        "name": "Vinod Kumar Nagar",
+        "party": "Rashtriya Bhartiya Jan Jan Party",
+        "source_label": "VINOD KUMAR NAGAR (Rashtriya Bhartiya Jan Jan Party)",
+        "col": "V7",
+        "is_focus": false
+      },
+      {
+        "name": "JITENDRA SINGH (Pragatishil Samajwadi Party (Lohia))",
+        "party": "UNKNOWN",
+        "source_label": "JITENDRA SINGH (Pragatishil Samajwadi Party (Lohia))",
+        "col": "V8",
+        "is_focus": false
+      },
+      {
+        "name": "Shersingh Upadhyay",
+        "party": "Rashtriya Janta Party",
+        "source_label": "SHERSINGH UPADHYAY (Rashtriya Janta Party)",
+        "col": "V9",
+        "is_focus": false
+      },
+      {
+        "name": "Vinod Sharma",
+        "party": "All Indian Rajiv Congress Party",
+        "source_label": "VINOD SHARMA (All Indian Rajiv Congress Party)",
+        "col": "V10",
+        "is_focus": false
+      },
+      {
+        "name": "RAGHUVENDRA KUMAR (SBSP (Subhas Party))",
+        "party": "UNKNOWN",
+        "source_label": "RAGHUVENDRA KUMAR (SBSP (Subhas Party))",
+        "col": "V11",
+        "is_focus": false
+      },
+      {
+        "name": "DAYARAM (Aapki Apni Party (Peoples))",
+        "party": "UNKNOWN",
+        "source_label": "DAYARAM (Aapki Apni Party (Peoples))",
+        "col": "V12",
+        "is_focus": false
+      }
+    ],
+    "stations": 388,
+    "evm_total": 216782,
+    "focus_votes": 101005,
+    "focus_station_leads": 175,
+    "invalid_station_rows": 0,
+    "zero_evm_rows": 0
+  },
+  "2022": {
+    "election_type": "Assembly",
+    "focus": "Avtar Singh Bhadana",
+    "focus_party": "RLD",
+    "alliance": "SP–RLD alliance; Avtar Singh Bhadana contested Jewar on the RLD symbol. NOT Narender Nagar votes.",
+    "source": "AC63- form 20 jewar 2022.xls",
+    "source_note": "2022 sum of 419 station-level EVM votes is 324 lower than spreadsheet’s printed subtotal.",
+    "year": 2022,
+    "candidates": [
+      {
+        "name": "Avtar Singh Bhadana",
+        "party": "RLD",
+        "source_label": "AVTAR SINGH BHADANA (Rashtriya Lok Dal)",
+        "col": "V0",
+        "is_focus": true
+      },
+      {
+        "name": "Dhirendra Singh",
+        "party": "BJP",
+        "source_label": "DHIRENDRA SINGH (Bharatiya Janata Party)",
+        "col": "V1",
+        "is_focus": false
+      },
+      {
+        "name": "Narender Kumar",
+        "party": "BSP",
+        "source_label": "NARENDER KUMAR (Bahujan Samaj Party)",
+        "col": "V2",
+        "is_focus": false
+      },
+      {
+        "name": "Manoj",
+        "party": "INC",
+        "source_label": "MANOJ (Indian National Congress)",
+        "col": "V3",
+        "is_focus": false
+      },
+      {
+        "name": "Neeru Walia",
+        "party": "Sarv Samaj Party",
+        "source_label": "NEERU WALIA (Sarv Samaj Party)",
+        "col": "V4",
+        "is_focus": false
+      },
+      {
+        "name": "Poonam",
+        "party": "AAP",
+        "source_label": "POONAM (Aam Aadmi Party)",
+        "col": "V5",
+        "is_focus": false
+      },
+      {
+        "name": "Manoj Kumar Sharma",
+        "party": "Loktantrik Janshakti Party",
+        "source_label": "MANOJ KUMAR SHARMA (Loktantrik Janshakti Party)",
+        "col": "V6",
+        "is_focus": false
+      },
+      {
+        "name": "Trilok Chand Sharma",
+        "party": "IND",
+        "source_label": "TRILOK CHAND SHARMA (Independent)",
+        "col": "V7",
+        "is_focus": false
+      },
+      {
+        "name": "Dhaniram",
+        "party": "IND",
+        "source_label": "DHANIRAM (Independent)",
+        "col": "V8",
+        "is_focus": false
+      },
+      {
+        "name": "Vijay",
+        "party": "IND",
+        "source_label": "VIJAY (Independent)",
+        "col": "V9",
+        "is_focus": false
+      },
+      {
+        "name": "Veer Singh",
+        "party": "IND",
+        "source_label": "VEER SINGH (Independent)",
+        "col": "V10",
+        "is_focus": false
+      },
+      {
+        "name": "Sunil Gautam",
+        "party": "IND",
+        "source_label": "SUNIL GAUTAM (Independent)",
+        "col": "V11",
+        "is_focus": false
+      }
+    ],
+    "stations": 419,
+    "evm_total": 230872,
+    "focus_votes": 60696,
+    "focus_station_leads": 89,
+    "invalid_station_rows": 0,
+    "zero_evm_rows": 0
+  },
+  "2024": {
+    "election_type": "Lok Sabha segment",
+    "focus": "Dr. Mahendra Singh Nagar",
+    "focus_party": "SP",
+    "alliance": "SP–INC INDIA alliance; Dr. Mahendra Singh Nagar contested the Lok Sabha election. Different person from Narender Nagar.",
+    "source": "form 20 data 2024.pdf",
+    "source_note": "2024 contains no station names/elector counts in uploaded Form 20; one row has zero EVM votes.",
+    "year": 2024,
+    "candidates": [
+      {
+        "name": "Dr. Mahendra Singh Nagar",
+        "party": "SP",
+        "source_label": "Dr. Mahendra Singh Nagar (SP)",
+        "col": "V0",
+        "is_focus": true
+      },
+      {
+        "name": "Dr. Mahesh Sharma",
+        "party": "BJP",
+        "source_label": "Dr. Mahesh Sharma (BJP)",
+        "col": "V1",
+        "is_focus": false
+      },
+      {
+        "name": "Rajendra Singh Solanki",
+        "party": "BSP",
+        "source_label": "Rajendra Singh Solanki (BSP)",
+        "col": "V2",
+        "is_focus": false
+      },
+      {
+        "name": "Naravedashvar",
+        "party": "SBSPSP",
+        "source_label": "Naravedashvar (SBSPSP)",
+        "col": "V3",
+        "is_focus": false
+      },
+      {
+        "name": "Kishor Singh",
+        "party": "NPA",
+        "source_label": "Kishor Singh (NPA)",
+        "col": "V4",
+        "is_focus": false
+      },
+      {
+        "name": "Naresh Nautiyal",
+        "party": "BRJ",
+        "source_label": "Naresh Nautiyal (BRJ)",
+        "col": "V5",
+        "is_focus": false
+      },
+      {
+        "name": "Bhim Prakash Jigyasu",
+        "party": "VKVIP",
+        "source_label": "Bhim Prakash Jigyasu (VKVIP)",
+        "col": "V6",
+        "is_focus": false
+      },
+      {
+        "name": "Manish Kumar Dwivedi",
+        "party": "AKBRPRVP",
+        "source_label": "Manish Kumar Dwivedi (AKBRPRVP)",
+        "col": "V7",
+        "is_focus": false
+      },
+      {
+        "name": "Ran Singh Dudee",
+        "party": "SPIP",
+        "source_label": "Ran Singh Dudee (SPIP)",
+        "col": "V8",
+        "is_focus": false
+      },
+      {
+        "name": "Rajeev Mishra",
+        "party": "JIHNDNTLP",
+        "source_label": "Rajeev Mishra (JIHNDNTLP)",
+        "col": "V9",
+        "is_focus": false
+      },
+      {
+        "name": "Km. Shalu",
+        "party": "LOKJANP",
+        "source_label": "Km. Shalu (LOKJANP)",
+        "col": "V10",
+        "is_focus": false
+      },
+      {
+        "name": "Parag Kaushik",
+        "party": "IND",
+        "source_label": "Parag Kaushik (IND)",
+        "col": "V11",
+        "is_focus": false
+      },
+      {
+        "name": "Mahkar Singh",
+        "party": "IND",
+        "source_label": "Mahkar Singh (IND)",
+        "col": "V12",
+        "is_focus": false
+      },
+      {
+        "name": "Mohd. Mumtaj Aalam",
+        "party": "IND",
+        "source_label": "Mohd. Mumtaj Aalam (IND)",
+        "col": "V13",
+        "is_focus": false
+      },
+      {
+        "name": "Shivam Ashutosh",
+        "party": "IND",
+        "source_label": "Shivam Ashutosh (IND)",
+        "col": "V14",
+        "is_focus": false
+      }
+    ],
+    "stations": 398,
+    "evm_total": 203537,
+    "focus_votes": 31228,
+    "focus_station_leads": 27,
+    "invalid_station_rows": 0,
+    "zero_evm_rows": 1
+  }
+}
